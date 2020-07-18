@@ -17,7 +17,7 @@ Added areas for new input fields, new regular expression practice.
 Cooper Pearson
 
 ## Screenshots
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](https://github.com/cooperpear/Form-Validation/blob/master/Form-validation.png?raw=true "Optional Title")
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
